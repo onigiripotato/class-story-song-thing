@@ -1,7 +1,7 @@
 
 # class-story-song-thing
 
-yey :potato::cheese:
+yey :potato::cheese::crayon:
 
 hi ya'll
  
